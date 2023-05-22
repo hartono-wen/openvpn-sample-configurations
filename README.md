@@ -1,0 +1,1 @@
+# openvpn-sample-configurations
